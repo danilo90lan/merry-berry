@@ -1,0 +1,9 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:merry-berry-acai/docs.git
+[submodule "server"]
+	path = server
+	url = git@github.com:merry-berry-acai/server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:merry-berry-acai/client.git
